@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![My photo](/images/portrait.jpg "My photo" | width)
+![My photo](/images/portrait.jpg "My photo")
 
 
 <img src="https://raw.githubusercontent.com/preetham-v/website/master/images/portrait.jpg" alt="alt text" width="300" height="465">
