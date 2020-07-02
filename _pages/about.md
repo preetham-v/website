@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-<div><p>
-<img style="vertical-align: middle; padding-right: 20px; padding left: 20px;" src="https://raw.githubusercontent.com/preetham-v/website/master/images/portrait.jpg" alt="alt text" width="350" height="465">
+<div style="text-align: center"><p>
+<img style="vertical-align: middle" src="https://raw.githubusercontent.com/preetham-v/website/master/images/portrait.jpg" alt="alt text" width="350" height="465">
 </p>
   
 <p> 
