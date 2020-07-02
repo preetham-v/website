@@ -4,10 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+![My Photo](/images/potrait.jpg)
+I am a final year undergraduate student at the Indian Institute of Science, Bangalore. I am pursuing a chemistry major as part of the Bachelor of Science (Research) program, and my thesis project uses molecular dynamics to study prion proteins.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+My academic interests revolve around biophysics, protein design and medicinal chemistry.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am also a big fan of Chelsea Football Club and may occasionally be found at a local screening appearing very agitated.
