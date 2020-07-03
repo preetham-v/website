@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="text-align: justify"><p>
-<img style="vertical-align: middle" src="https://raw.githubusercontent.com/preetham-v/website/master/images/portrait.jpg" alt="alt text" width="350" height="465">
+<div><p>
+<img style="vertical-align: left" src="https://raw.githubusercontent.com/preetham-v/website/master/images/portrait.jpg" alt="alt text" width="350" height="465">
 </p>
   
-<p> 
+<p style="text-align: justify"> 
   
   
 I am a final year undergraduate student at the Indian Institute of Science, Bangalore. I am pursuing a chemistry major as part of the Bachelor of Science (Research) program, and my thesis project uses molecular dynamics to study prion proteins. <br>
@@ -16,5 +16,6 @@ I am a final year undergraduate student at the Indian Institute of Science, Bang
 My academic interests revolve around biophysics, protein design and medicinal chemistry. <br>
 
 I am also a big fan of Chelsea Football Club and may occasionally be found at a local screening appearing very agitated. <br>
+
 </p>
 </div>
