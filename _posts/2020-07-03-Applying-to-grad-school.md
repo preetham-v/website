@@ -1,7 +1,7 @@
 ---
 layout: post
 description: A collection of posts that outline the grad school application process
-categories: [markdown]
+categories: [applications]
 title: Applying to grad school
 ---
 <p align="justify">
