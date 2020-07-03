@@ -29,7 +29,7 @@
   
       ,"page2": {
           "title": "CV",
-          "content": "A pdf copy of my CV is available [here] (/documents/Preetham_CV.pdf) .",
+          "content": "The pdf version of my CV is available here. An HTML version will be updated shortly. .",
           "url": "https://preetham-v.github.io/website/cv/",
           "relUrl": "/cv/",
           "date": ""
