@@ -1,8 +1,8 @@
 ---
 layout: post
-description: Table of contents for all articles on grad school applications
+description: A collection of posts that outline the grad school application process
 categories: [markdown]
-title: Grad school applications
+title: Applying to grad school
 ---
 
 # Applying to grad school
@@ -16,6 +16,7 @@ The following list of articles are meant to serve as advice for a prospective st
   * Selecting universitites to apply to
   * Emailing prospective advisors
 
+
 * **Application Material**
   * Writing a Statement of Purpose
   * Requesting for reccomendation letters
@@ -23,16 +24,16 @@ The following list of articles are meant to serve as advice for a prospective st
   * Writing diversity statements
   * Preparing your transcripts
 
+
 * **Standardised Exams**
   * Preparing for GRE
   * Preparing for TOEFL
+
 
 * **Submission**
   * Checklist for application submission
   * Virtually interviewing for grad school 
 
+
 * **Miscellaneous**
   * Fellowships for International students
- 
-
-</div>
