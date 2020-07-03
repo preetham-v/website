@@ -4,9 +4,6 @@ description: A collection of posts that outline the grad school application proc
 categories: [markdown]
 title: Applying to grad school
 ---
-
-# Applying to grad school
-
 <p align="justify">
 The following list of articles are meant to serve as advice for a prospective student applying to graduate school. These are based solely on personal experience, and thus are written from the point of view of an international student applying for Ph.D. programs in STEM. However, I believe it can be generalized to applicants in other fields and degrees.
 </p>
