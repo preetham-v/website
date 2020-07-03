@@ -27,6 +27,17 @@
   
 
   
+      ,"page2": {
+          "title": "CV",
+          "content": "A pdf copy of my CV is available [here] (/documents/Preetham_CV.pdf) .",
+          "url": "https://preetham-v.github.io/website/cv/",
+          "relUrl": "/cv/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -48,7 +59,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://preetham-v.github.io/website/robots.txt",
